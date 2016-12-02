@@ -1,6 +1,1 @@
-# Hello-World
-
-main()
-{
-  printf("Hello world!");
-}
+Wie dit leest is gek.
